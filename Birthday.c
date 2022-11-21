@@ -2,9 +2,7 @@
 #include <stdbool.h>
 
 void birthday(char name[20], int age){
-
-
-
+    
 printf ("What is your name?: ");
 fflush(stdout);
 scanf("%s", name);
