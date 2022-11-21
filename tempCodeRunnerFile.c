@@ -1,2 +1,2 @@
 
-printf("%s\n", result);
+puts("");
